@@ -1,0 +1,10 @@
+<launch>
+
+  <!-- The markers node -->
+  <node name="add_markers_node" type="add_marker" pkg="add_markers">
+  </node>
+
+  <node name="pick_objects_node" type="pick_object" pkg="pick_objects" output="screen">
+  </node>
+
+</launch>
