@@ -19,10 +19,12 @@ The rvizConfig contains the rviz configuration file used during the project.
 ### Exporting the RTAB_Map
 To Export the rtab map (generated with slam) to the 2D .pgm and .yaml used for localization and navigation, the following commands can be used:
 
+```
 roscore
 rosrun rtabmap_ros rtabmap _database_path:=<your_map_name>.db
 rosrun map_server map_saver <exported_map_name>:=proj_map
 rosservice call /publish_map 1 1 0
+```
 
 ### Scripts description
 There are 4 scripts available:
