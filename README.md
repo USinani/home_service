@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Tui Alexandre Ono Baraniuk** - *Initial work* - [tuialexandre](https://github.com/tuialexandre)
+* **Tui Alexandre Ono Baraniuk** - [tuialexandre](https://github.com/tuialexandre)
 
 
 ### Packages description
