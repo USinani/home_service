@@ -1,4 +1,4 @@
-# Home service robot simulation using ROS
+# Home service robot simulation using ROS Kinetic
 
 ## Author
 
