@@ -4,6 +4,9 @@
 
 * **Tui Alexandre Ono Baraniuk** - [tuialexandre](https://github.com/tuialexandre)
 
+### Requirements
+
+[ROS Kinetic Kame](http://wiki.ros.org/kinetic)
 
 ### Packages description
 
